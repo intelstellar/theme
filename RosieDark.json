@@ -1,5 +1,5 @@
 {
-    "name": "RosieDark",
+    "name": "RosieDark v2",
     "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
     "version": "1",
     "authors": [
@@ -368,8 +368,8 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/refs/heads/main/RosieDarkBG.jpeg",
-        "OPACITY": 0
+        "url": "https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/sz7deeo4.png",
+        "OPACITY": 0.5
     },
     "plus": {
         "version": "0",
@@ -387,6 +387,7 @@
     },
     "spec": 2
 }
+
 
 
 
