@@ -369,7 +369,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/sz7deeo4.png",
-        "OPACITY": 0.7
+        "OPACITY": 0.3
     },
     "plus": {
         "version": "0",
@@ -387,6 +387,7 @@
     },
     "spec": 2
 }
+
 
 
 
